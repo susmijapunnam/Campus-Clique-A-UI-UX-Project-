@@ -1,7 +1,5 @@
 # Campus Clique
 
-![Cover](assets/cover.png)
-
 ## Overview
 
 Campus Clique is a mobile application concept designed to help college students build meaningful connections, discover campus events, join communities, and stay engaged with campus life.
@@ -138,7 +136,7 @@ Text: #111827
 
 ### Figma Prototype
 
-[View Prototype](YOUR_FIGMA_LINK)
+[View Prototype](https://www.figma.com/proto/TfjrxhxGyvT067qnUhLnJb/Campus-Clique?node-id=70-344&t=pdEOl1qRMfhrcnJU-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A344)
 
 ---
 
@@ -172,10 +170,9 @@ Campus Clique creates a centralized and intuitive platform that enhances student
 
 ## Author
 
-Your Name
+Susmija Punnam and Team
 
 UI/UX Designer
 
-LinkedIn: YOUR_LINKEDIN
-
-Portfolio: YOUR_PORTFOLIO
+LinkedIn: www.linkedin.com/in/susmija-punnam
+Portfolio:https://www.figma.com/proto/TfjrxhxGyvT067qnUhLnJb/Campus-Clique?node-id=70-344&t=pdEOl1qRMfhrcnJU-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=70%3A344

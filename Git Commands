@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Initial commit - Campus Clique UI/UX Case Study"
+
+git branch -M main
+
+git remote add origin https://github.com/susmijapunnam/campus-clique-uiux-case-study.git
+
+git push -u origin main

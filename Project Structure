@@ -1,0 +1,33 @@
+Campus-Clique-UIUX-Case-Study/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── assets/
+│   ├── cover.png
+│   ├── onboarding.png
+│   ├── home-screen.png
+│   ├── events.png
+│   ├── profile.png
+│   └── prototype-preview.gif
+│
+├── research/
+│   ├── problem-statement.md
+│   ├── user-personas.md
+│   ├── user-journey.md
+│   └── competitive-analysis.md
+│
+├── design-system/
+│   ├── colors.md
+│   ├── typography.md
+│   └── components.md
+│
+├── wireframes/
+│   ├── low-fidelity.png
+│   └── mid-fidelity.png
+│
+└── case-study/
+    ├── design-process.md
+    ├── usability-testing.md
+    └── final-solution.md
